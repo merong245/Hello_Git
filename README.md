@@ -1,2 +1,2 @@
-# hello-student
+# hello-world
 My first repository
